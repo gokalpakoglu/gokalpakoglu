@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökalp Akoğlu</h1>
-<h3 align="center">I am a Computer Engineering student at Adnan Menderes University. I have been interested in C, Python, Java, HTML, CSS , Boostrap and React. I am open to learning all kinds of technologies.</h3>
+<h3 align="center">I am a Computer Engineering student at Adnan Menderes University. I have been interested in C, Python, Java, HTML, CSS , Bootstrap and React. I am open to learning all kinds of technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokalpakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="gokalpakoglu" /> </p>
 
