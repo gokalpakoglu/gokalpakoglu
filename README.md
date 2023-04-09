@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gökalp Akoğlu</h1>
-<h3 align="center">I am a Computer Engineering student at Adnan Menderes University. I have been interested in C, Python, Java, HTML, CSS, Bootstrap, React, Flutter. I am open to learning all kinds of technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokalpakoglu&label=Profile%20views&color=0e75b6&style=flat" alt="gokalpakoglu" /> </p>
 
-- 🌱 I’m currently learning **Flutter,React**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **https://www.linkedin.com/in/gokalpakoglu/**
 
