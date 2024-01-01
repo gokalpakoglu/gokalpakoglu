@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **https://www.linkedin.com/in/gokalpakoglu/**
-- 📄 Know about my experiences [here](https://flowcv.com/resume/bd4165eaka)
+- 📄 Know about my experiences(EN) [here](https://flowcv.com/resume/bd4165eaka)
+- 📄 Deneyimlerim hakkında(TR) [burada](https://flowcv.com/resume/bd4165eaka)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
