@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/gokalpakoglu/**
 - 📄 Know about my experiences(EN) [here](https://flowcv.com/resume/bd4165eaka)
-- 📄 Deneyimlerim hakkında(TR) [burada](https://flowcv.com/resume/bd4165eaka)
+- 📄 Deneyimlerim hakkında(TR) [burada](https://flowcv.com/resume/1q4kb0s3pm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
